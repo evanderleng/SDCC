@@ -1,5 +1,5 @@
 javac -cp "./htmlunit-2.34.1-bin/htmlunit-2.34.1/lib/*" ./JavaApplication12/src/sdcc/loginv3.java
 
-cd ./JavaApplication12/src && java -Xdiag -cp "./htmlunit-2.34.1-bin/htmlunit-2.34.1/lib/*":. sdcc.loginv3
+java -Xdiag -cp "./htmlunit-2.34.1-bin/htmlunit-2.34.1/lib/*":. sdcc.loginv3
 
-cd ./JavaApplication12/src && nohup java -Xdiag -cp "./htmlunit-2.34.1-bin/htmlunit-2.34.1/lib/*":. sdcc.loginv3 &
+nohup java -Xdiag -cp "./htmlunit-2.34.1-bin/htmlunit-2.34.1/lib/*":. sdcc.loginv3 &
