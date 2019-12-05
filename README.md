@@ -5,12 +5,15 @@ This is a very quick and dirty solution coded in Java using htmlunit, no gui use
 
 No transactions are involved in the code, make sure your account has sufficient credit to buy the slots you want when the bot is running.
 
-
+javac -cp "./htmlunit-2.34.1-bin/htmlunit-2.34.1/lib/*" ./JavaApplication12/src/sdcc/loginv3.java
 ### Setting up the bot (only needs to be performed once)
-1. Compile with
+1. Edit lines 54 and 55 of src/sdcc/loginv3.java and replace the placeholder credentials with your own SSDCL credentials
+2. cd to the root folder (SDCC)
+3. Compile with `javac -cp "./htmlunit-2.34.1-bin/htmlunit-2.34.1/lib/*" ./JavaApplication12/src/sdcc/loginv3.java`
+4. The class file has been created and you can now run the bot
 
 ### Running the bot
-Input your desired dates and timeslots in dates.txt, located in src/sdcc, seperating the date and timeslot with a colon. Whitespace should not be a problem. An example is as follows:
+1. Input your desired dates and timeslots in dates.txt, located in src/sdcc, seperating the date and timeslot with a colon. Whitespace should not be a problem. An example is as follows:
 ```
 03 Sep 2019:5
 21 Jul 2019:1
@@ -29,7 +32,8 @@ Timeslot reference is included below:
 | 6 | 8:20pm - 10:20pm * | - |
 * Peak Hour
 
-
+2. cd to the root folder (SDCC)
+3. `cd ./JavaApplication12/src && java -Xmx2048m -Xdiag -cp "./htmlunit-2.34.1-bin/htmlunit-2.34.1/lib/*":. sdcc.loginv3`wrong
 
 ```Tue Oct 22 15:50:22 ICT 2019 : Round 2227 finished. Starting round 2228
 Tue Oct 22 15:50:29 ICT 2019 : Round 2228 finished. Starting round 2229
