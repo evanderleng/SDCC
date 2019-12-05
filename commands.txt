@@ -1,0 +1,3 @@
+javac -cp "xxx/sdcc/htmlunit-2.34.1-bin/htmlunit-2.34.1/lib/*" xxx/sdcc/JavaApplication12/src/sdcc/loginv2.java
+
+cd xxx/sdcc/JavaApplication12/src && java -Xdiag -cp "xxx/sdcc/htmlunit-2.34.1-bin/htmlunit-2.34.1/lib/*":. sdcc.loginv2

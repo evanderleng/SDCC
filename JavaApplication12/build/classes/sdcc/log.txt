@@ -1,0 +1,63 @@
+Mon May 27 18:27:27 GMT+08:00 2019 : 15 Aug 2019date found and booked
+Mon May 27 18:55:47 GMT+08:00 2019 : 8:15 AM at 15 Aug 2019 has been found and booked
+Mon May 27 18:55:53 GMT+08:00 2019 : 8:15 AM at 16 Aug 2019 has been found and booked
+Mon May 27 18:55:53 GMT+08:00 2019 : Round 1 finished. Starting round 2
+Mon May 27 18:56:02 GMT+08:00 2019 : 8:15 AM at 15 Aug 2019 has been found and booked
+Mon May 27 18:56:10 GMT+08:00 2019 : 8:15 AM at 16 Aug 2019 has been found and booked
+Mon May 27 18:56:10 GMT+08:00 2019 : Round 2 finished. Starting round 3
+Mon May 27 19:19:13 GMT+08:00 2019 : Round 1 finished. Starting round 2
+Mon May 27 19:19:28 GMT+08:00 2019 : Round 2 finished. Starting round 3
+Mon May 27 19:19:42 GMT+08:00 2019 : Round 3 finished. Starting round 4
+Mon May 27 19:19:52 GMT+08:00 2019 : Round 4 finished. Starting round 5
+Mon May 27 19:20:01 GMT+08:00 2019 : Round 5 finished. Starting round 6
+Mon May 27 19:23:02 GMT+08:00 2019 : Round 1 finished. Starting round 2
+Mon May 27 19:23:14 GMT+08:00 2019 : Round 2 finished. Starting round 3
+Mon May 27 19:23:26 GMT+08:00 2019 : Round 3 finished. Starting round 4
+Mon May 27 19:24:33 GMT+08:00 2019 : Round 1 finished. Starting round 2
+Mon May 27 19:24:47 GMT+08:00 2019 : Round 2 finished. Starting round 3
+Mon May 27 19:31:29 GMT+08:00 2019 : Round 1 finished. Starting round 2
+Mon May 27 19:31:40 GMT+08:00 2019 : Round 2 finished. Starting round 3
+Mon May 27 19:31:50 GMT+08:00 2019 : Round 3 finished. Starting round 4
+Mon May 27 19:32:00 GMT+08:00 2019 : Round 4 finished. Starting round 5
+Mon May 27 19:32:10 GMT+08:00 2019 : Round 5 finished. Starting round 6
+Mon May 27 19:32:20 GMT+08:00 2019 : Round 6 finished. Starting round 7
+Mon May 27 19:32:30 GMT+08:00 2019 : Round 7 finished. Starting round 8
+Mon May 27 19:32:40 GMT+08:00 2019 : Round 8 finished. Starting round 9
+Mon May 27 19:32:49 GMT+08:00 2019 : Round 9 finished. Starting round 10
+Mon May 27 19:32:59 GMT+08:00 2019 : Round 10 finished. Starting round 11
+Mon May 27 19:34:04 GMT+08:00 2019 : Round 1 finished. Starting round 2
+Mon May 27 19:34:18 GMT+08:00 2019 : Round 2 finished. Starting round 3
+Mon May 27 19:34:30 GMT+08:00 2019 : Round 3 finished. Starting round 4
+Mon May 27 19:34:42 GMT+08:00 2019 : Round 4 finished. Starting round 5
+Mon May 27 19:34:51 GMT+08:00 2019 : Round 5 finished. Starting round 6
+Mon May 27 19:57:12 GMT+08:00 2019 : Round 1 finished. Starting round 2
+Mon May 27 19:57:26 GMT+08:00 2019 : Round 2 finished. Starting round 3
+Mon May 27 19:57:39 GMT+08:00 2019 : Round 3 finished. Starting round 4
+Mon May 27 19:58:11 GMT+08:00 2019 : Round 1 finished. Starting round 2
+Mon May 27 19:58:23 GMT+08:00 2019 : Round 2 finished. Starting round 3
+Mon May 27 19:58:38 GMT+08:00 2019 : Round 3 finished. Starting round 4
+Mon May 27 19:58:51 GMT+08:00 2019 : Round 4 finished. Starting round 5
+Mon May 27 19:59:17 GMT+08:00 2019 : Round 1 finished. Starting round 2
+Mon May 27 19:59:29 GMT+08:00 2019 : Round 2 finished. Starting round 3
+Mon May 27 20:00:53 GMT+08:00 2019 : Round 1 finished. Starting round 2
+Mon May 27 20:01:07 GMT+08:00 2019 : Round 2 finished. Starting round 3
+Mon May 27 20:01:18 GMT+08:00 2019 : Round 3 finished. Starting round 4
+Mon May 27 20:04:27 GMT+08:00 2019 : Program started.
+Mon May 27 20:04:47 GMT+08:00 2019 : Round 1 finished. Starting round 2
+Mon May 27 20:04:57 GMT+08:00 2019 : Round 2 finished. Starting round 3
+Mon May 27 20:05:07 GMT+08:00 2019 : Round 3 finished. Starting round 4
+Mon May 27 20:05:17 GMT+08:00 2019 : Round 4 finished. Starting round 5
+Mon May 27 20:05:27 GMT+08:00 2019 : Round 5 finished. Starting round 6
+Mon May 27 20:05:38 GMT+08:00 2019 : Round 6 finished. Starting round 7
+Mon May 27 20:08:04 GMT+08:00 2019 : Program started.
+Mon May 27 20:10:08 GMT+08:00 2019 : Program started.
+Mon May 27 20:10:33 GMT+08:00 2019 : 8:15 AM at 18 Aug 2019 has been found and booked
+Mon May 27 20:10:40 GMT+08:00 2019 : 8:15 AM at 19 Aug 2019 has been found and booked
+Mon May 27 20:10:43 GMT+08:00 2019 : Round 1 finished. Starting round 2
+Mon May 27 20:10:54 GMT+08:00 2019 : Round 2 finished. Starting round 3
+Mon May 27 20:11:07 GMT+08:00 2019 : Round 3 finished. Starting round 4
+Mon May 27 20:11:19 GMT+08:00 2019 : Round 4 finished. Starting round 5
+Mon May 27 20:20:25 GMT+08:00 2019 : Program started.
+Mon May 27 20:20:45 GMT+08:00 2019 : Round 1 finished. Starting round 2
+Mon May 27 20:20:55 GMT+08:00 2019 : Round 2 finished. Starting round 3
+Mon May 27 20:21:06 GMT+08:00 2019 : Round 3 finished. Starting round 4
