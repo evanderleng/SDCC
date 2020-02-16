@@ -29,7 +29,8 @@ Timeslot reference is included below:
 | 4 | 3.20 pm - 5.20 pm  | 3.20 pm - 5.20 pm * |
 | 5 | 6:10pm - 8:10pm * | - |
 | 6 | 8:20pm - 10:20pm * | - |
-** Peak Hour
+
+Asterisk indicates Peak Hour
 
 2. cd to the root folder (SDCC)
 3. Start the program with `cd ./JavaApplication12/src && nohup java -Xmx2048m -Xdiag -cp "../../htmlunit-2.34.1-bin/htmlunit-2.34.1/lib/*":. sdcc.loginv3 &` The program will run forever until it runs out of dates in dates.txt or runs into an error.
