@@ -6,7 +6,6 @@ This is a very quick and dirty solution coded in Java using htmlunit, and bugs m
 
 No transactions are involved in the code, make sure your account has sufficient credit to buy the slots you want when the bot is running.
 
-javac -cp "./htmlunit-2.34.1-bin/htmlunit-2.34.1/lib/*" ./JavaApplication12/src/sdcc/loginv3.java
 ### Setting up the bot (only needs to be performed once)
 1. Edit lines 54 and 55 (and 145 if you want to book lessons from ang mo kio) of src/sdcc/loginv3.java and replace the placeholder credentials with your own SSDCL credentials
 2. cd to the root folder (SDCC)
