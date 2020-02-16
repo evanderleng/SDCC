@@ -39,7 +39,7 @@ Timeslot reference is included below:
 
 
 ### Logs
-Logs are located in nohup.out
+Logs are located in log.txt as well as nohup.out
 Here is a sample:
 ```Tue Oct 22 15:50:22 ICT 2019 : Round 2227 finished. Starting round 2228
 Tue Oct 22 15:50:29 ICT 2019 : Round 2228 finished. Starting round 2229
