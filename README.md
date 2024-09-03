@@ -1,6 +1,6 @@
-# Singapore Safety Driving Centre Bot
+# [DEPRECATED] Singapore Safety Driving Centre Bot
 Bot that camps on the website of ssdcl.com.sg and instantly books slots for you the moment they are released from someone who cancels.
-
+### This repository is deprecated and will no longer work on the current version of ssdcl.com.sg
 ### I will not be responsible for any damages from using this program
 This is a very quick and dirty solution coded in Java using htmlunit, and bugs may be present.
 
@@ -44,9 +44,6 @@ Here is a sample:
 Tue Oct 22 15:50:29 ICT 2019 : Round 2228 finished. Starting round 2229
 Tue Oct 22 15:50:37 ICT 2019 : Round 2229 finished. Starting round 2230
 Tue Oct 22 15:50:44 ICT 2019 : Round 2230 finished. Starting round 2231
-Tue Oct 22 15:50:51 ICT 2019 : This is the test: 
-                                                                                8:20 PM ✔
-                                                                            :a
 Tue Oct 22 15:50:56 ICT 2019 : 8:20 PM at 24 Oct 2019 has been found and booked
 Tue Oct 22 15:50:56 ICT 2019 : Round 2231 finished. Starting round 2232
 Tue Oct 22 15:51:01 ICT 2019 : no more entries```
